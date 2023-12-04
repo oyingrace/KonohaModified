@@ -14,7 +14,7 @@ const ProjectsBtn = () => {
     <Link href={'/work'} className='relative w-[185px] h-[185px] flex justify-center items-center
      bg-cover bg-center bg-no-repeat group'>
 
-      <Image src= {'./roundedd-text.png'} width={141} height={148} alt=''
+      <Image src= {'/roundedd-text.png'} width={141} height={148} alt=''
        className='animate-spin-slow w-full h-full max-w-[141px] max-h-[148px]'/>
       {/*<HiArrowRight className='absolute text4xl group-hover:translate-x-2 transition-all duration-300' /> */}
     </Link>
