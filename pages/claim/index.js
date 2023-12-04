@@ -33,7 +33,7 @@ initial='hidden'
  animate='show'
   exit='hidden'
 >
-Congrats!!! you've recieved an NFT
+Congrats!!! you have recieved an NFT
 </motion.p>
        <ClaimNft/>
         <Bulb/>
