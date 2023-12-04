@@ -1,3 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
+
+
 // data
 export const workSlider = {
   slides: [
