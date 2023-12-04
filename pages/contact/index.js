@@ -26,7 +26,7 @@ const Contact = () => {
       animate='show'
       exit="hidden"
       className='h2 text-center mb-12'>
-        Let's hear from <span className='text-accent'>you.</span>
+        Let&apos;s hear from <span className='text-accent'>you.</span>
         </motion.h2>
         {/*form */}
         <motion.form 
