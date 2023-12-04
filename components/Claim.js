@@ -13,7 +13,7 @@ const ClaimNft = () => {
 
 
     <div className='flex flex-col items-center justify-center'>
-     <Image src= {'/roundedd-text.png'} width={141} height={148} alt=''
+     <Image src= {'/roundedd-text.png'} width={141} height={148} 
        className='animate-spin-slow w-full h-full max-w-[141px] max-h-[148px]'/>
 
               <ConnectWallet
